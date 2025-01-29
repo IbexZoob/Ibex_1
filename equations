@@ -1,0 +1,26 @@
+<!DOCTYPE js>
+<html>
+<!---------------------INCREMENTAL PORTIONS/CURRENCIES-------------------->
+function A_increment() {
+  var A = A + (1 + a_add) * a_mult
+}
+
+<!--------------------VARIABLES---------------------->
+var a_add = B * C;
+var a_mult = 1;
+var tickspeed = 1 * (0.9 ** D);
+var B = {};
+var C = {};
+var D = {};
+
+<!-----------------------COSTS------------------------>
+var Bcost = 10 * (3 * ((B - 1) ** 2));
+var Ccost = 100 * (2 * C);
+var Dcost = {};
+
+
+<!--------------------LIMITS-------------------------->
+<p>If D = 20</p>
+
+
+</html>
